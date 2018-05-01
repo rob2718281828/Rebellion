@@ -1,0 +1,30 @@
+Right swipe = BACK
+Hold on screen = MENU
+Swipe up/dn = PREV / NEXT
+
+If your app currently overrides the above actions (right swipe, hold, or swiping up and down), 
+they will interfere with the native actions of the vívoactive 3. 
+If you are using the BehaviorDelegate to capture menu and back behaviors, 
+your app will work without modification on the vívoactive 3.
+
+A WatchUi.Button is derived from Selectable and adds the ability to define a
+ background and map interaction to an existing or new custom method (i.e. onMenu())
+  within WatchUi.BehaviorDelegate. See how easy it is to create a layout defining
+   two on-screen buttons:
+
+<layout id="ButtonLayout">
+    <button x="40" y="center" width="50" height="50" background="Gfx.COLOR_BLACK" behavior="onBack">
+        <state id="stateDefault" bitmap="@Drawables.DefaultBackButton" />
+        <state id="stateHighlighted" bitmap="@Drawables.PressedBackButton" />
+        <state id="stateSelected" bitmap="@Drawables.PressedBackButton" />
+        <state id="stateDisabled" color="Gfx.COLOR_BLACK" />
+    </button>
+    <button x="115" y="center" width="50" height="50">
+        <state id="stateDefault" bitmap="@Drawables.DefaultMenuButton" />
+        <state id="stateHighlighted" bitmap="@Drawables.PressedMenuButton" />
+        <state id="stateSelected" bitmap="@Drawables.PressedMenuButton" />
+        <state id="stateDisabled" color="Gfx.COLOR_BLACK" />
+        <param name="background">Gfx.COLOR_BLACK</param>
+        <param name="behavior">onMenu</param>
+    </button>
+</layout>

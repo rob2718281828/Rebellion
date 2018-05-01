@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="6" pc="268435456" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="7" pc="268435460" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="8" pc="268435492" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="9" pc="268435524" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="10" pc="268435556" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="11" pc="268435588" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="12" pc="268435620" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="13" pc="268435652" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="14" pc="268435684" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="15" pc="268435716" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="16" pc="268435748" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="17" pc="268435780" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="18" pc="268435812" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="19" pc="268435844" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="20" pc="268435876" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="21" pc="268435908" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="22" pc="268435940" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="23" pc="268435972" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="24" pc="268436004" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="25" pc="268436036" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="26" pc="268436068" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="27" pc="268436100" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="28" pc="268436132" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="29" pc="268436164" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="30" pc="268436196" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="31" pc="268436228" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="32" pc="268436260" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="33" pc="268436292" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="34" pc="268436324" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="35" pc="268436356" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="36" pc="268436388" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="37" pc="268436420" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="38" pc="268436452" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="39" pc="268436484" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="40" pc="268436516" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="41" pc="268436548" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="42" pc="268436580" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="43" pc="268436612" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="44" pc="268436644" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="45" pc="268436676" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="46" pc="268436708" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="47" pc="268436740" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="48" pc="268436772" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="49" pc="268436804" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="50" pc="268436836" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="51" pc="268436868" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="52" pc="268436900" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="53" pc="268436932" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="54" pc="268436964" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="55" pc="268436996" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="56" pc="268437028" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="57" pc="268437060" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="58" pc="268437092" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="59" pc="268437124" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="60" pc="268437156" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="61" pc="268437188" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="62" pc="268437220" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="63" pc="268437252" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="64" pc="268437284" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="65" pc="268437316" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="66" pc="268437348" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="67" pc="268437380" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="68" pc="268437412" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="71" pc="268437445" symbol="addBand"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="72" pc="268437449" symbol="addBand"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="75" pc="268437473" symbol="addBand"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="76" pc="268437484" symbol="addBand"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="78" pc="268437494" symbol="addBand"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="81" pc="268437504" symbol="addBand"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="82" pc="268437514" symbol="addBand"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="83" pc="268437524" symbol="addBand"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="84" pc="268437534" symbol="addBand"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="85" pc="268437544" symbol="addBand"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="86" pc="268437563" symbol="addBand"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="90" pc="268437583" symbol="getNext"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="91" pc="268437587" symbol="getNext"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="92" pc="268437597" symbol="getNext"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="93" pc="268437618" symbol="getNext"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="94" pc="268437673" symbol="getNext"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="97" pc="268437692" symbol="getNext"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="100" pc="268437699" symbol="getBandString"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="101" pc="268437703" symbol="getBandString"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="102" pc="268437723" symbol="getBandString"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="104" pc="268437728" symbol="getBandString"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="107" pc="268437741" symbol="getBandString"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="108" pc="268437761" symbol="getBandString"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="110" pc="268437766" symbol="getBandString"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="120" pc="268437779" symbol="toString"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="121" pc="268437783" symbol="toString"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="123" pc="268437790" symbol="toString"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="124" pc="268437806" symbol="toString"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="126" pc="268437825" symbol="toString"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="130" pc="268437889" symbol="toString"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\Band.mc" lineNum="131" pc="268437923" symbol="toString"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionApp.mc" lineNum="5" pc="268437928" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionApp.mc" lineNum="6" pc="268437932" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionApp.mc" lineNum="10" pc="268437951" symbol="onStart"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionApp.mc" lineNum="14" pc="268437956" symbol="onStop"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionApp.mc" lineNum="18" pc="268437961" symbol="getInitialView"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionApp.mc" lineNum="19" pc="268437965" symbol="getInitialView"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionApp.mc" lineNum="20" pc="268437989" symbol="getInitialView"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionApp.mc" lineNum="21" pc="268438015" symbol="getInitialView"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionDelegate.mc" lineNum="8" pc="268438043" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionDelegate.mc" lineNum="9" pc="268438047" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionDelegate.mc" lineNum="12" pc="268438058" symbol="onNextBand"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionDelegate.mc" lineNum="13" pc="268438062" symbol="onNextBand"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionDelegate.mc" lineNum="15" pc="268438081" symbol="onPrevBand"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionDelegate.mc" lineNum="16" pc="268438085" symbol="onPrevBand"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionDelegate.mc" lineNum="19" pc="268438104" symbol="onNextDay"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionDelegate.mc" lineNum="20" pc="268438108" symbol="onNextDay"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionDelegate.mc" lineNum="23" pc="268438127" symbol="onPrevDay"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionDelegate.mc" lineNum="24" pc="268438131" symbol="onPrevDay"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="16" pc="268438150" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="17" pc="268438154" symbol="initialize"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="21" pc="268438173" symbol="onLayout"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="22" pc="268438177" symbol="onLayout"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="28" pc="268438215" symbol="onShow"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="29" pc="268438219" symbol="onShow"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="33" pc="268438249" symbol="onShow"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="34" pc="268438293" symbol="onShow"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="35" pc="268438324" symbol="onShow"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="39" pc="268438355" symbol="onShow"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="43" pc="268438397" symbol="onUpdate"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="44" pc="268438401" symbol="onUpdate"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="45" pc="268438418" symbol="onUpdate"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="51" pc="268438492" symbol="onUpdate"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="52" pc="268438520" symbol="onUpdate"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="55" pc="268438534" symbol="onUpdate"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="56" pc="268438562" symbol="onUpdate"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="59" pc="268438585" symbol="onUpdate"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="60" pc="268438610" symbol="onUpdate"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="63" pc="268438641" symbol="onUpdate"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="67" pc="268438662" symbol="getDateText"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="68" pc="268438666" symbol="getDateText"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="69" pc="268438683" symbol="getDateText"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="70" pc="268438692" symbol="getDateText"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="71" pc="268438709" symbol="getDateText"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="73" pc="268438718" symbol="getDateText"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="78" pc="268438725" symbol="setBandString"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="79" pc="268438729" symbol="setBandString"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="80" pc="268438750" symbol="setBandString"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="81" pc="268438775" symbol="setBandString"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="82" pc="268438782" symbol="setBandString"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="84" pc="268438799" symbol="setBandString"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="90" pc="268438817" symbol="nextBand"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="91" pc="268438821" symbol="nextBand"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="93" pc="268438840" symbol="nextBand"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="94" pc="268438872" symbol="nextBand"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="99" pc="268438904" symbol="prevBand"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="100" pc="268438908" symbol="prevBand"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="102" pc="268438927" symbol="prevBand"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="103" pc="268438944" symbol="prevBand"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="108" pc="268438961" symbol="nextDay"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="109" pc="268438965" symbol="nextDay"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="110" pc="268438984" symbol="nextDay"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="111" pc="268439001" symbol="nextDay"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="113" pc="268439017" symbol="nextDay"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="117" pc="268439056" symbol="prevDay"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="118" pc="268439060" symbol="prevDay"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="119" pc="268439079" symbol="prevDay"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="120" pc="268439096" symbol="prevDay"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="122" pc="268439112" symbol="prevDay"/>
+<entry filename="H:\\eclipse-workspace\\Rebellion\\.\\source\\RebellionView.mc" lineNum="128" pc="268439151" symbol="onHide"/>
+<entry filename="Rez" lineNum="18" pc="268439156" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="22" pc="268439168" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="23" pc="268439340" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="24" pc="268439373" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="25" pc="268439425" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="26" pc="268439597" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="27" pc="268439630" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="28" pc="268439682" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="29" pc="268439854" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="30" pc="268439887" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="31" pc="268439939" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="32" pc="268440111" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="33" pc="268440144" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="34" pc="268440196" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="35" pc="268440341" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="36" pc="268440486" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="37" pc="268440631" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="40" pc="268440776" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="21" method="true" symbol="onPrevBand"/>
+<entry id="30" method="true" symbol="getDateText"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="32" method="true" symbol="nextBand"/>
+<entry field="true" id="26" symbol="stage"/>
+<entry field="true" id="29" symbol="myString"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8388783" method="true" symbol="toString"/>
+<entry id="20" method="true" symbol="onNextBand"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="10" object="true" symbol="Band"/>
+<entry id="17" method="true" symbol="MainLayout"/>
+<entry id="11" object="true" symbol="RebellionApp"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="38" method="true" symbol="getBandString"/>
+<entry id="8388924" module="true" symbol="Gregorian"/>
+<entry field="true" id="8389103" symbol="behavior"/>
+<entry field="true" id="25" symbol="date"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="18" symbol="AppName"/>
+<entry id="31" method="true" symbol="setBandString"/>
+<entry field="true" id="8388892" symbol="name"/>
+<entry id="22" method="true" symbol="onNextDay"/>
+<entry field="true" id="16" symbol="LauncherIcon"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="34" method="true" symbol="nextDay"/>
+<entry field="true" id="28" symbol="bandIndex"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="13" object="true" symbol="RebellionView"/>
+<entry id="23" method="true" symbol="onPrevDay"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="27" symbol="bands"/>
+<entry field="true" id="8389067" symbol="height"/>
+<entry field="true" id="24" symbol="time"/>
+<entry id="35" method="true" symbol="prevDay"/>
+<entry id="37" method="true" symbol="getNext"/>
+<entry id="15" module="true" symbol="Layouts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="8389892" symbol="background"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="12" object="true" symbol="RebellionDelegate"/>
+<entry field="true" id="8389850" symbol="count"/>
+<entry field="true" id="8389066" symbol="width"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="14" module="true" symbol="Menus"/>
+<entry id="9" object="true" symbol="BandList"/>
+<entry id="33" method="true" symbol="prevBand"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="36" method="true" symbol="addBand"/>
+<entry field="true" id="19" symbol="mView"/>
+</symbolTable>
+<localVars>
+<entry endPc="268437582" name="band" stackId="5" startPc="268437449"/>
+<entry endPc="268437583" name="stage" stackId="4" startPc="268437445"/>
+<entry endPc="268437583" name="name" stackId="2" startPc="268437445"/>
+<entry endPc="268437583" name="date" stackId="1" startPc="268437445"/>
+<entry endPc="268437583" name="time" stackId="3" startPc="268437445"/>
+<entry endPc="268437692" name="i" stackId="3" startPc="268437618"/>
+<entry endPc="268437699" name="day" stackId="1" startPc="268437583"/>
+<entry endPc="268437699" name="now" stackId="2" startPc="268437583"/>
+<entry endPc="268437778" name="b" stackId="2" startPc="268437703"/>
+<entry endPc="268437779" name="index" stackId="1" startPc="268437699"/>
+<entry endPc="268437926" name="hour" stackId="2" startPc="268437783"/>
+<entry endPc="268437926" name="timeString" stackId="4" startPc="268437783"/>
+<entry endPc="268437926" name="minute" stackId="3" startPc="268437783"/>
+<entry endPc="268437926" name="str" stackId="1" startPc="268437783"/>
+<entry endPc="268437956" name="state" stackId="1" startPc="268437951"/>
+<entry endPc="268437961" name="state" stackId="1" startPc="268437956"/>
+<entry endPc="268438042" name="view" stackId="1" startPc="268437965"/>
+<entry endPc="268438042" name="delegate" stackId="2" startPc="268437965"/>
+<entry endPc="268438058" name="view" stackId="1" startPc="268438043"/>
+<entry endPc="268438215" name="dc" stackId="1" startPc="268438173"/>
+<entry endPc="268438396" name="clockTime" stackId="1" startPc="268438219"/>
+<entry endPc="268438661" name="dateLabel" stackId="5" startPc="268438401"/>
+<entry endPc="268438661" name="timeLabel" stackId="4" startPc="268438401"/>
+<entry endPc="268438661" name="timeString" stackId="3" startPc="268438401"/>
+<entry endPc="268438661" name="currentTime" stackId="2" startPc="268438401"/>
+<entry endPc="268438662" name="dc" stackId="1" startPc="268438397"/>
+<entry endPc="268438816" name="bandString" stackId="3" startPc="268438729"/>
+<entry endPc="268438816" name="bandLabel" stackId="4" startPc="268438729"/>
+<entry endPc="268438817" name="index" stackId="2" startPc="268438725"/>
+<entry endPc="268438817" name="label" stackId="1" startPc="268438725"/>
+<entry endPc="268440863" name="rez_cmp_local_bitmap_BandLabel1_fontHeight" stackId="5" startPc="268439168"/>
+<entry endPc="268440863" name="rez_cmp_local_bitmap_DateLabel_fontHeight" stackId="9" startPc="268439168"/>
+<entry endPc="268440863" name="rez_cmp_local_bitmap_BandLabel2" stackId="6" startPc="268439168"/>
+<entry endPc="268440863" name="rez_cmp_local_bitmap_BandLabel1" stackId="4" startPc="268439168"/>
+<entry endPc="268440863" name="rez_cmp_local_custom_selectable_YWUV79STOZ2NPMGRXO34" stackId="11" startPc="268439168"/>
+<entry endPc="268440863" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="3" startPc="268439168"/>
+<entry endPc="268440863" name="rez_cmp_local_bitmap_TimeLabel" stackId="2" startPc="268439168"/>
+<entry endPc="268440863" name="rez_cmp_local_custom_selectable_N900XJXZW5Z2NLDD8XHR" stackId="12" startPc="268439168"/>
+<entry endPc="268440863" name="rez_cmp_local_custom_selectable_EIW1J0LMLSJP9RHXX1OL" stackId="13" startPc="268439168"/>
+<entry endPc="268440863" name="rez_cmp_local_bitmap_DateLabel" stackId="8" startPc="268439168"/>
+<entry endPc="268440863" name="rez_cmp_local_bitmap_BandLabel2_fontHeight" stackId="7" startPc="268439168"/>
+<entry endPc="268440863" name="rez_cmp_local_custom_selectable_8V9W6D1INDWT81FEIPDP" stackId="10" startPc="268439168"/>
+<entry endPc="268440864" name="dc" stackId="1" startPc="268439156"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="BandList">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="addBand" parent="BandList">
+<param id="date"/>
+<param id="name"/>
+<param id="time"/>
+<param id="stage"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getNext" parent="BandList">
+<param id="day"/>
+<param id="now"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getBandString" parent="BandList">
+<param id="index"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="toString" parent="Band">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="RebellionApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="RebellionApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="RebellionApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="RebellionApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="RebellionDelegate">
+<param id="view"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onNextBand" parent="RebellionDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPrevBand" parent="RebellionDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onNextDay" parent="RebellionDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPrevDay" parent="RebellionDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="RebellionView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="RebellionView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="RebellionView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="RebellionView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getDateText" parent="RebellionView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="setBandString" parent="RebellionView">
+<param id="label"/>
+<param id="index"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="nextBand" parent="RebellionView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="prevBand" parent="RebellionView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="nextDay" parent="RebellionView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="prevDay" parent="RebellionView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="RebellionView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="206" parentId="globals" symbolId="RebellionApp" type="class"/>
+<dataEntry offset="277" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="356" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="395" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="426" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="457" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="488" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="527" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="566" parentId="globals" symbolId="RebellionDelegate" type="class"/>
+<dataEntry offset="653" parentId="globals" symbolId="Band" type="class"/>
+<dataEntry offset="740" parentId="globals" symbolId="RebellionView" type="class"/>
+<dataEntry offset="907" parentId="globals" symbolId="BandList" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>
