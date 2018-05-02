@@ -28,3 +28,6 @@ A WatchUi.Button is derived from Selectable and adds the ability to define a
         <param name="behavior">onMenu</param>
     </button>
 </layout>
+
+
+Pretty bluish color but doesn't show up well: "0x88AAFF"

@@ -9,18 +9,17 @@ class RebellionDelegate extends Ui.BehaviorDelegate {
     	mView = view;
     }
 
-    function onNextBand() {
+    function onTapRight() {
     	mView.nextBand();
     }
-    function onPrevBand() {
+    function onTapLeft() {
     	mView.prevBand();
     }
     
-    function onNextDay() {
-    	mView.nextDay();
+    function onTapUp() {
     }
     
-    function onPrevDay() {
-    	mView.prevDay();
+    function onTapDown() {
+    	mView.cycleDay();
     }
 }

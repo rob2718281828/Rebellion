@@ -1,23 +1,30 @@
 <layout id="MainLayout">
     <!--<bitmap id="id_monkey" x="center" y="center" filename="../drawables/monkey.png" />-->
-    <label id="TimeLabel" x="center" y="0" font="Graphics.FONT_MEDIUM" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_LT_GRAY" />
-    <label id="BandLabel1" x="center" y="50" font="Graphics.FONT_SMALL" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
-    <label id="BandLabel2" x="center" y="130" font="Graphics.FONT_SMALL" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_LT_GRAY" />
+    
+    <label id="TimeLabel" x="center" y="0" font="Graphics.FONT_NUMBER_MEDIUM" justification="Graphics.TEXT_JUSTIFY_CENTER" color="0xFF3333" />
+    
+    <label id="BandLabel1" x="center" y="60" font="Graphics.FONT_MEDIUM" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+    <label id="BandLabel2" x="center" y="145" font="Graphics.FONT_XTINY" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_LT_GRAY" />
+    
     <label id="DateLabel" x="center" y="200" font="Graphics.FONT_MEDIUM" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_LT_GRAY" />
-    <button x="120" y="center" width="120" height="60">
+    
+    <button x="120" y="90" width="120" height="60">
     	<param name="background">Gfx.COLOR_RED</param>
-    	<param name="behavior">onNextBand</param>
+    	<param name="behavior">onTapRight</param>
     </button>
-	<button x="0" y="center" width="120" height="60">
+    
+	<button x="0" y="90" width="120" height="60">
     	<param name="background">Gfx.COLOR_WHITE</param>
-    	<param name="behavior">onPrevBand</param>
+    	<param name="behavior">onTapLeft</param>
     </button>
-	<button x="center" y="180" width="200" height="60">
+    
+	<button x="center" y="160" width="200" height="120">
     	<param name="background">Gfx.COLOR_RED</param>
-    	<param name="behavior">onNextDay</param>
+    	<param name="behavior">onTapDown</param>
     </button>
+    
 	<button x="center" y="0" width="200" height="60">
     	<param name="background">Gfx.COLOR_RED</param>
-    	<param name="behavior">onPrevDay</param>
+    	<param name="behavior">onTapUp</param>
     </button>    
 </layout>
